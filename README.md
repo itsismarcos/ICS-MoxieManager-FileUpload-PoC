@@ -41,7 +41,7 @@ CWE-284: Controle de acesso inadequado
 PoC Exploit
 
 #!/usr/bin/env python3
-# CVE-2026-XXXXX PoC - ICS MoxieManager RCE
+# CVE-2026-30-03 PoC - ICS MoxieManager RCE
 import requests
 
 TARGET = "https://example.edu"
