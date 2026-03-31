@@ -1,6 +1,8 @@
 # ICS-MoxieManager-RCE-CVE-2026-30-03
 CVE-2026-30-03 9.8 (Crítico) Possível RCE Jenzabar ICS + MoxieManager
 
+proff https://www.youtube.com/watch?v=lcfUL6Xx3f4&feature=youtu.be
+
 
 CVE	CVSS	Impacto	Afetado
 CVE-2026-30-03	9.8 (Crítico)	Possível RCE	Jenzabar ICS + MoxieManager
